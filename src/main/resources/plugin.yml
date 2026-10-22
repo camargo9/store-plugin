@@ -1,0 +1,12 @@
+name: StorePlugin
+description: $description
+version: '${version}'
+
+main: br.camargodev.storePlugin.Main
+api-version: '26.3'
+load: STARTUP
+
+authors: [ Discord: camargo.dev ]
+
+commands:
+  store:
